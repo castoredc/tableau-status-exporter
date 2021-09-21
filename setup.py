@@ -3,7 +3,7 @@ from setuptools import find_packages
 
 NAME = "tableau-exporter"
 
-VERSION = "0.2.0"
+VERSION = "0.2.1"
 
 REQUIRES = [
     "pyyaml",
